@@ -14,14 +14,14 @@
 /*font awesome padding*/
 .fnpadding{
 	padding-right: 20px;
-	color: yellow;
+	color: violet;
 	margin: auto;
 	padding-top: 0px;
 }
 /*myimage edit*/
 
 .myimage{
-	height: 350px;
+	height: 330px;
 	width: 300px;
 	border-radius: 75%;
 }
@@ -36,3 +36,37 @@
 	padding-bottom: 25px;
 
 }
+      /*web developement responsive website and graphics design fontawesome background color */
+.fabackground{
+	background-color: #023891;
+	border-radius: 100px;
+	width: 130px;
+	height: 130px;
+	color: white;
+}
+/*web developementb image padding*/
+.fnpadding1{
+	padding-top: 35px;
+}
+/*responsive image padding*/
+.fnpadding2{
+	padding-top: 20px;
+	font-size: 100px;
+
+}
+.progress{
+	height: 5px;
+}
+/*graphycs design background*/
+.fnbackground1{
+	color: white;
+	background-color :#023891;
+	border-radius: 100px;
+	width: 130px;
+	height: 130px;
+}
+/*graphycs design size*/
+.fnpadding3{
+	padding-top: 25px;
+}
+
